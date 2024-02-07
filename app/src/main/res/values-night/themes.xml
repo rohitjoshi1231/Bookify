@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bookify" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
